@@ -6,9 +6,6 @@
   <img src="https://img.shields.io/badge/👀%20Profile%20Views-5K%2B-blueviolet?style=for-the-badge" alt="5K+ Profile Views"/>
 </p>
 
-<!-- Hidden Komarev counter to keep backend tracking working silently -->
-<img src="https://komarev.com/ghpvc/?username=khushal212001" width="0" height="0" style="visibility:hidden;" alt="hidden"/>
-
 
 - 🔭 I’m currently working on [GameplayUS Website](https://www.gameplayus.com/)
 
